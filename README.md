@@ -11,14 +11,11 @@ I'm just a newbie programmer with interests in a lot of languages and projects, 
 ## My Socials
 need to edit.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=captainion2119)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainion2119)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=captainion2119&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/captainion2119)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=captainion2119)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=captainion2119)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/captainion2119)  
