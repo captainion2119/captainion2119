@@ -3,13 +3,13 @@
 
 I'm just a newbie programmer with interests in a lot of languages and projects, but mainly in Minecraft plugin development and server management.
 
-• 🔭 Owner of UDU SMP Minecraft server, Director of Cyberix SMP, Backend dev of Twilight Skies SMP.
-• 🌴 I’m currently in 12th Grade.
-• 🚀 I'm a slow responder (Not seenzoning).
-• 💬 We can have an open convos of how minecraft servers work and any backend workings.
-• 📫 How to reach me: infinites999@gmail.com
-• ⛄️ Pronouns: He/Him
-• 🍪 Fun fact: I like 5318008 👀
+• 🔭 Owner of UDU SMP Minecraft server, Director of Cyberix SMP, Backend dev of Twilight Skies SMP.  
+• 🌴 I’m currently in 12th Grade.  
+• 🚀 I'm a slow responder (Not seenzoning).  
+• 💬 We can have an open convos of how minecraft servers work and any backend workings.  
+• 📫 How to reach me: infinites999@gmail.com  
+• ⛄️ Pronouns: He/Him  
+• 🍪 Fun fact: I like 5318008 👀  
 • ☕ I use: Python, Java, C# actively.
 
 ## Languages in my brain
