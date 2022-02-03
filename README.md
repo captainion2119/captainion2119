@@ -20,6 +20,9 @@ I'm just a newbie programmer with interests in a lot of languages and projects, 
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) @Adithya.2119  
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ION#6315
 
+## My workstation
+![image](https://img.shields.io/badge/GPU-RTX--2070S-green?style-for-the-badge&logoColor=green)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=captainion2119&show_icons=true)   
 
