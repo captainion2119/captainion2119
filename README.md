@@ -21,7 +21,7 @@ I'm just a newbie programmer with interests in a lot of languages and projects, 
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ION#6315
 
 ## My workstation
-![image](https://img.shields.io/badge/GPU-RTX--2070S-green?style-for-the-badge&logoColor=green)
+![image](https://img.shields.io/badge/GPU-RTX--2070S-green?style=for-the-badge&logo=appveyor)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=captainion2119&show_icons=true)   
