@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/captainion2119)  
 ![](https://raw.githubusercontent.com/captainion2119/captainion2119/b7690092be4d5209506de416fa45b86e5a40bd51/media/banner.png)
 
-I'm just a newbie programmer with interests in a lot of languages and projects, but mainly in Minecraft plugin development and server management.
+I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests in a lot of languages and projects, but mainly in Minecraft plugin development and server management.
 
 • 🔭 Owner of UDU SMP Minecraft server, Director of Cyberix SMP, Backend dev of Twilight Skies SMP.  
 • 🌴 I’m currently in 12th Grade.  
