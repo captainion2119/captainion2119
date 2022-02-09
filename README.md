@@ -27,4 +27,4 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=captainion2119&show_icons=true&theme=aura_dark)   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=captainion2119)](https://github.com/ryo-ma/github-profile-trophy&theme=aura_dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=captainion2119&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy&theme=onedark)
