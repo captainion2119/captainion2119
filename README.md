@@ -22,7 +22,7 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 ##### ION#6315
 
 ## My workstation
-![image](https://img.shields.io/badge/-RTX--2070S-brightgreen?style=for-the-badge&logo=nvidia) ![image](https://img.shields.io/badge/-INTEL%20Core%20i5%2010th%20gen-blue?style=for-the-badge&logo=intel&logoColor=white)
+![image](https://img.shields.io/badge/-RTX--2070S-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white) ![image](https://img.shields.io/badge/-INTEL%20Core%20i5%2010th%20gen-blue?style=for-the-badge&logo=intel&logoColor=white)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=captainion2119&show_icons=true)   
