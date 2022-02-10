@@ -4,7 +4,7 @@
 
 I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests in a lot of languages and projects, but mainly in Minecraft plugin development and server management.
 
-• 🔭 Owner of UDU SMP Minecraft server, Director of Cyberix SMP, Backend dev of Twilight Skies SMP.  
+• 🔭 Owner of UDU SMP Minecraft server, Backend dev of Twilight Skies SMP.  
 • 🌴 I’m currently in 12th Grade.  
 • 💬 We can have convos about how minecraft servers work and any backend workings.  
 • 📫 How to reach me: infinites999@gmail.com  
