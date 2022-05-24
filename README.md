@@ -18,7 +18,7 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 ## My Socials
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithya.2119/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/402442664936472586)   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rjo3jw0ks85vtz14ysv5dqbwa&cover_image=false&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rjo3jw0ks85vtz14ysv5dqbwa&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)
 
 ## My workstation
 ![image](https://img.shields.io/badge/-RTX--2070S-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white) ![image](https://img.shields.io/badge/-INTEL%20Core%20i5%2010th%20gen-blue?style=for-the-badge&logo=intel&logoColor=white)
