@@ -5,8 +5,8 @@
 I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests in a lot of languages and projects, but mainly in Minecraft plugin development and server management.
 
 • 🔭 Owner of UDU SMP Minecraft server, 🚧 OTHER PROJECTS IN PROGRESS 🚧.  
-• 🌴 I’m currently in 12th Grade.  
-• 💬 We can have convos about how minecraft servers work and any backend workings.  
+• 🌴 I’m currently pursuing my degree in Computer Science - AI/ML @ BNMIT.  
+• 💬 We can have convos about how minecraft servers work and any backend wizardry.  
 • 📫 How to reach me: infinites999@gmail.com  
 • ⛄️ Pronouns: He/Him  
 • 🍪 Fun fact: I like 5318008 👀  
@@ -18,7 +18,7 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 ## 🔗 My Socials
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithya.2119/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/402442664936472586)   
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rjo3jw0ks85vtz14ysv5dqbwa&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)
+
 
 ## 🖥️ My workstation
 ![image](https://img.shields.io/badge/-RTX--2070S-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white) ![image](https://img.shields.io/badge/-INTEL%20Core%20i5%2010th%20gen-blue?style=for-the-badge&logo=intel&logoColor=white)
