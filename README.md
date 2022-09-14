@@ -6,6 +6,7 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 
 • 🔭 Owner of UDU SMP Minecraft server, 🚧 OTHER PROJECTS IN PROGRESS 🚧.  
 • 🌴 I’m currently pursuing my degree in Computer Science - AI/ML @ BNMIT.  
+• 🎮 Also studying for a diploma in Game development and Game design.  
 • 💬 We can have convos about how minecraft servers work and any backend wizardry.  
 • 📫 How to reach me: infinites999@gmail.com  
 • ⛄️ Pronouns: He/Him  
