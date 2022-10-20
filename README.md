@@ -17,9 +17,9 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![image](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) ![image](https://img.shields.io/badge/-Next.js-green?style=for-the-badge&logo=next.js&logoColor=white)  
 
 ## ⌨🖱 Currently active servers
-[![UDU badge](https://img.shields.io/badge/Upsidedownuniverse-ONLINE-brightgreen?style=for-the-badge&logo=databricks&logoColor=white)](discord.gg/nPJ7xbrWhW)  
-[![Moonlight badge](https://img.shields.io/badge/Moonlight%20MC-ONLINE-brightgreen?style=for-the-badge&logo=databricks&logoColor=white)](discord.gg/HZeUdfC2AZ)  
-[![SweetCraft badge](https://img.shields.io/badge/Sweetcraft%20MC-ONLINE-brightgreen?style=for-the-badge&logo=databricks&logoColor=white)](https://discord.gg/3bay8dAr2g)  
+[![UDU badge](https://img.shields.io/badge/Upsidedownuniverse-OFFLINE-red?style=for-the-badge&logo=databricks&logoColor=white)](discord.gg/nPJ7xbrWhW)  
+[![Moonlight badge](https://img.shields.io/badge/Moonlight%20MC-OFFLINE-red?style=for-the-badge&logo=databricks&logoColor=white)](discord.gg/HZeUdfC2AZ)  
+[![SweetCraft badge](https://img.shields.io/badge/Sweetcraft%20MC-OFFLINE-red?style=for-the-badge&logo=databricks&logoColor=white)](https://discord.gg/3bay8dAr2g)  
 
 ## 🔗 My Socials
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithya.2119/)
