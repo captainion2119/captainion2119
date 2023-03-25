@@ -18,8 +18,6 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 
 ## ⌨🖱 Currently active servers
 [![UDU badge](https://img.shields.io/badge/Upsidedownuniverse-OFFLINE-red?style=for-the-badge&logo=databricks&logoColor=white)](discord.gg/nPJ7xbrWhW)  
-[![Moonlight badge](https://img.shields.io/badge/Moonlight%20MC-OFFLINE-red?style=for-the-badge&logo=databricks&logoColor=white)](discord.gg/HZeUdfC2AZ)  
-[![SweetCraft badge](https://img.shields.io/badge/Sweetcraft%20MC-OFFLINE-red?style=for-the-badge&logo=databricks&logoColor=white)](https://discord.gg/3bay8dAr2g)  
 
 ## 🔗 My Socials
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithya.2119/)
