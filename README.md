@@ -33,4 +33,3 @@ I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests i
 [![trophy](https://github-profile-trophy.vercel.app/?username=captainion2119&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy&theme=onedark)
 
 [![wakatime](https://wakatime.com/badge/user/0f114570-49f0-4757-8a26-ea8f48087145.svg?style=for-the-badge)](https://wakatime.com/@0f114570-49f0-4757-8a26-ea8f48087145)
-[![THM profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3187273)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3187273)
