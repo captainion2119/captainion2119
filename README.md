@@ -2,6 +2,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=captainion2119&style=for-the-badge&label=PROFILE+VIEWS)  
 ![](https://raw.githubusercontent.com/captainion2119/captainion2119/b7690092be4d5209506de416fa45b86e5a40bd51/media/banner.png)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3187273" style='border:none;'></iframe>
+
 I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests in a lot of languages and projects, but mainly in Minecraft plugin development and server management.
 
 • 🔭 Owner of UDU SMP Minecraft server, 🚧 OTHER PROJECTS IN PROGRESS 🚧.  
