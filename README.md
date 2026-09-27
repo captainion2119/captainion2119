@@ -1,37 +1,225 @@
-### Hi there 👋, 👀
-![Profile views](https://komarev.com/ghpvc/?username=captainion2119&style=for-the-badge&label=PROFILE+VIEWS)  
-![](https://raw.githubusercontent.com/captainion2119/captainion2119/b7690092be4d5209506de416fa45b86e5a40bd51/media/banner.png)
+<div align="center">
 
-I'm just a Newbie Programmer and an Apprentice Graphic Designer with interests in a lot of languages and projects, but mainly in Minecraft plugin development and server management.
+# Adithya Karthik M
 
-• 🔭 Owner of UDU SMP Minecraft server, 🚧 OTHER PROJECTS IN PROGRESS 🚧.  
-• 🌴 I’m currently pursuing my degree in Computer Science - AI/ML @ BNMIT.  
-• 🎮 Also studying for a diploma in Game development and Game design.  
-• 💬 We can have convos about how minecraft servers work and any backend wizardry.  
-• 📫 How to reach me: infinites999@gmail.com  
-• ⛄️ Pronouns: He/Him  
-• 🍪 Fun fact: I like 5318008 👀  
-• ☕ I use: Python, Java, C# actively. (But C,C++,HTML,CSS sits in the back of my head.)
+### Security Researcher · Reverse Engineer · Builder
 
-## 🧠 Languages in my brain
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![image](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) ![image](https://img.shields.io/badge/-Next.js-green?style=for-the-badge&logo=next.js&logoColor=white)  
+*Breaking things to understand how they're built. Building things to understand how they break.*
 
-## ⌨🖱 Currently active servers
-[![UDU badge](https://img.shields.io/badge/Upsidedownuniverse-ONLINE-green?style=for-the-badge&logo=databricks&logoColor=white)](discord.gg/nPJ7xbrWhW)  
+![Profile Views](https://komarev.com/ghpvc/?username=captainion2119&style=flat-square&label=PROFILE+VIEWS)
 
-## 🔗 My Socials
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithya.2119/)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/402442664936472586)   
+</div>
 
+---
 
-## 🖥️ My workstation
-![image](https://img.shields.io/badge/-RTX--2070S-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white) ![image](https://img.shields.io/badge/-INTEL%20Core%20i5%2010th%20gen-blue?style=for-the-badge&logo=intel&logoColor=white)
+## `whoami`
 
-## 📈 Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=captainion2119&show_icons=true&theme=aura_dark)   
+```text
+                _     _ _            _   
+  __ _ _ __ ___| |__ (_) |_ ___  ___| |_ 
+ / _` | '__/ __| '_ \| | __/ _ \/ __| __|
+| (_| | | | (__| | | | | ||  __/ (__| |_ 
+ \__,_|_|  \___|_| |_|_|\__\___|\___|\__|
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=captainion2119&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy&theme=onedark)
+           [ 0xARCHITECT ]
+           
+    build. break. understand. repeat.
+```
 
-[![wakatime](https://wakatime.com/badge/user/0f114570-49f0-4757-8a26-ea8f48087145.svg?style=for-the-badge)](https://wakatime.com/@0f114570-49f0-4757-8a26-ea8f48087145)
+```text
+$ whoami
+> Adithya Karthik M
 
-![THM Stats](https://tryhackme-badges.s3.amazonaws.com/ltn0n4m3.png)
+$ cat interests.txt
+> security
+> reverse engineering
+> breaking things that probably worked fine before I touched them
+
+$ status
+> still learning...
+> still building...
+> probably debugging something at 2 AM.
+```
+
+I'm a cybersecurity professional and developer from Bangalore, India, interested in understanding systems from the inside out.
+
+My work sits at the intersection of **offensive security, reverse engineering, software engineering, and security automation**.
+
+I enjoy taking complicated systems apart, understanding why they behave the way they do, and occasionally building something new from what I learn.
+
+Currently exploring deeper into **reverse engineering, vulnerability research, agentic security tooling, and low-level systems**.
+
+---
+
+## `~/current`
+
+```yaml
+focus:
+  - Reverse Engineering
+  - Vulnerability Research
+  - Offensive Security
+  - Agentic Pentesting
+  - Security Tooling
+
+building:
+  - Security automation
+  - Offensive security infrastructure
+  - Experimental developer tools
+
+learning:
+  - x86 / x86-64
+  - Windows Internals
+  - Malware Analysis
+  - Binary Exploitation
+  - Advanced Red Team Operations
+```
+
+---
+
+## `~/security`
+
+**Offensive Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Engineering**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## `~/certifications`
+
+<table>
+<tr>
+<td width="180" align="center">
+
+<img src="./media/pnpt.png" width="140"/>
+
+</td>
+<td>
+
+### PNPT
+
+**Practical Network Penetration Tester**
+
+Hands-on penetration testing covering:
+
+`Active Directory` · `OSINT` · `Linux PrivEsc` · `Windows PrivEsc` · `Network Pentesting` · `Reporting`
+
+**TCM Security**
+
+</td>
+</tr>
+</table>
+
+> `Achievement unlocked: professional permission to break things.` 🔓
+
+---
+
+## `~/research`
+
+Things I'm particularly interested in:
+
+```text
+[0x01] Reverse Engineering
+[0x02] Windows Internals
+[0x03] Binary Analysis
+[0x04] Vulnerability Research
+[0x05] Malware Analysis
+[0x06] Active Directory Security
+[0x07] Red Team Infrastructure
+[0x08] Security Automation
+[0x09] Agentic Offensive Security
+[0x0A] AI × Cybersecurity
+```
+
+Expect repositories here to increasingly contain **research notes, experiments, tooling, labs, writeups, and things I probably broke while trying to understand them.**
+
+---
+
+## `~/philosophy`
+
+```text
+             ┌───────────────────────────────┐
+             │                               │
+             │     BUILD → BREAK → LEARN     │
+             │        ↑              │       │
+             │        └──────────────┘       │
+             │                               │
+             └───────────────────────────────┘
+```
+
+> **Understand the system before trying to defeat it.**
+
+I don't particularly care about collecting tools.
+
+I'm more interested in understanding **why they work**.
+
+That curiosity is what pulled me from programming → cybersecurity → offensive security → and eventually deeper into reverse engineering.
+
+There is always another abstraction layer to peel away.
+
+---
+
+## `~/stats`
+
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=captainion2119&rank_icon=github&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=captainion2119&rank_icon=github&show_icons=true&include_all_commits=true&theme=monokai)
+
+</div>
+
+---
+
+## `~/labs`
+
+<div align="center">
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ltn0n4m3.png)
+
+</div>
+
+---
+
+## `~/connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya_Karthik_M-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-karthik-m/)
+[![Instagram](https://img.shields.io/badge/Instagram-0xarch1t3ct-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/0xarch1t3ct)
+
+---
+
+```text
+┌─[0xarchitect@github]─[~]
+└──╼ $ ./keep_building.sh
+
+[*] curiosity ............ enabled
+[*] caffeine ............. probably
+[*] bugs .................. definitely
+[*] understanding ........ in progress
+
+[+] See you somewhere below the abstraction layer.
+```
+
+<div align="center">
+
+**`0xARCHITECT // BUILD · BREAK · UNDERSTAND · REPEAT`**
+
+</div>
